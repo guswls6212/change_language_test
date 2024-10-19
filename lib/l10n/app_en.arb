@@ -1,0 +1,7 @@
+{
+  "hello": "Hello",
+  "settings": "Settings",
+  "language": "Language",
+  "currentLanguage": "Current Language: {language}",
+  "apply": "Apply"
+}
